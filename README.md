@@ -17,9 +17,9 @@
 
 ## Executive Summary
 
-MN Global Investment Holdings, LLC operates as a protocol-driven organization with a singular institutional focus: the strategic acquisition and secure custody of Bitcoin through systematic, rules-based methodologies. The company's entire operational infrastructure—including revenue generation systems, technological frameworks, and administrative processes—has been architected to support and optimize long-term Bitcoin accumulation.
+MN Global Investment Holdings, LLC operates as a protocol-driven organization with a singular strategic focus: the systematic acquisition and secure custody of Bitcoin through disciplined, rules-based methodologies. The company's entire operational infrastructure—including revenue generation systems, technological frameworks, and administrative processes—has been architected to support and optimize long-term Bitcoin accumulation.
 
-This document establishes the authoritative reference framework for the organization's operational protocols, financial systems architecture, technology infrastructure specifications, and governance processes. It serves to ensure transparency, facilitate independent auditability, and support scalable growth while maintaining institutional discipline and strategic focus.
+This document establishes the authoritative reference framework for the organization's operational protocols, financial systems architecture, technology infrastructure specifications, and governance processes. It serves to ensure transparency, facilitate independent auditability, and support scalable growth while maintaining organizational discipline and strategic focus.
 
 ---
 
@@ -31,7 +31,7 @@ To systematically acquire and securely maintain Bitcoin holdings through the dep
 
 ### Vision Statement
 
-To function as a self-scaling, strategically aligned institutional entity wherein every operational decision, technological system, and business workflow directly reinforces and accelerates continuous Bitcoin accumulation. The organization aims to achieve full operational autonomy through protocol adherence, creating a resilient framework capable of sustained execution across extended time horizons.
+To function as a self-scaling, strategically aligned organizational entity wherein every operational decision, technological system, and business workflow directly reinforces and accelerates continuous Bitcoin accumulation. The organization aims to achieve full operational autonomy through protocol adherence, creating a resilient framework capable of sustained execution across extended time horizons.
 
 ---
 
@@ -49,11 +49,11 @@ Decision-making authority is embedded within predefined protocols and automated 
 ### 4. Self-Scaling System Architecture
 Revenue streams, technological infrastructure, and operational processes are designed with inherent scalability characteristics that reinforce and accelerate Bitcoin accumulation as the organization grows. System improvements compound over time, creating positive feedback loops that enhance acquisition efficiency.
 
-### 5. Security & Institutional Resilience
-Bitcoin reserves are protected through industry-leading security protocols including multi-signature cold storage solutions, geographically distributed custody arrangements, and continuous security monitoring systems. All protocols prioritize asset preservation and institutional continuity across extended time horizons.
+### 5. Security & Operational Resilience
+Bitcoin reserves are protected through industry-leading security protocols including multi-signature cold storage solutions, geographically distributed custody arrangements, and continuous security monitoring systems. All protocols prioritize asset preservation and organizational continuity across extended time horizons.
 
 ### 6. Operational Transparency & Auditability
-All systems, processes, and protocols are documented comprehensively to enable internal review, external audit, and institutional accountability. Documentation standards ensure that operational knowledge is preserved, transferable, and accessible to authorized stakeholders.
+All systems, processes, and protocols are documented comprehensively to enable internal review, external audit, and organizational accountability. Documentation standards ensure that operational knowledge is preserved, transferable, and accessible to authorized stakeholders.
 
 ---
 
@@ -74,7 +74,7 @@ Oversees operational implementation, system coordination, and strategic executio
 Architects and maintains all technological infrastructure, automation systems, and security protocols supporting Bitcoin accumulation operations.
 
 **Advisory Council**  
-*(To be expanded as organizational scale and complexity warrant additional specialized expertise in areas such as legal compliance, cybersecurity, institutional custody, and financial engineering.)*
+*(To be expanded as organizational scale and complexity warrant additional specialized expertise in areas such as legal compliance, cybersecurity, professional custody, and financial engineering.)*
 
 ---
 
@@ -86,8 +86,8 @@ Establishment of core operational protocols, initial revenue stream development,
 ### Phase II: Revenue Optimization & System Scaling
 Expansion of revenue-generating operations, refinement of acquisition protocols, enhancement of automation capabilities, and optimization of operational efficiency metrics.
 
-### Phase III: Institutional Maturity & Full Autonomy
-Achievement of self-sustaining operational status with minimal human intervention requirements, maximized automation across all systems, and establishment of long-term institutional resilience mechanisms.
+### Phase III: Organizational Maturity & Full Autonomy
+Achievement of self-sustaining operational status with minimal human intervention requirements, maximized automation across all systems, and establishment of long-term organizational resilience mechanisms.
 
 ---
 
@@ -108,7 +108,7 @@ All operational activities are conducted in accordance with:
 
 This document represents the public-facing strategic framework for MN Global Investment Holdings, LLC. Additional technical specifications, security protocols, operational procedures, and proprietary systems documentation are maintained in separate secure repositories with appropriate access controls.
 
-For inquiries regarding partnerships, advisory roles, or institutional collaboration opportunities, please contact the organization through the official channels listed above.
+For inquiries regarding partnerships, advisory roles, or corporate collaboration opportunities, please contact the organization through the official channels listed above.
 
 ---
 
