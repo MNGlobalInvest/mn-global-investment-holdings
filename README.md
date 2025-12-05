@@ -60,13 +60,16 @@ All systems, processes, and protocols are documented comprehensively to enable i
 
 ### Leadership & Core Team
 
-**Founder & Chief Executive**  
+**Terry Williams**  
+*Founder & Chief Executive*  
 Responsible for strategic vision, protocol development, and institutional governance.
 
-**Project Director**  
+**Terry Williams**  
+*Project Director*  
 Oversees operational implementation, system coordination, and strategic execution of accumulation protocols.
 
-**Lead Systems Programmer**  
+**Terry Williams**  
+*Lead Systems Programmer*  
 Architects and maintains all technological infrastructure, automation systems, and security protocols supporting Bitcoin accumulation operations.
 
 **Advisory Council**  
