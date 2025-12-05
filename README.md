@@ -1,6 +1,6 @@
 # MN GLOBAL INVESTMENT HOLDINGS, LLC
 
-**Protocol-Driven Bitcoin Accumulation Strategy**
+**Protocol-Driven Bitcoin Accumulation Framework**
 
 ---
 
@@ -8,6 +8,7 @@
 
 **Office:** 218-322-9415  
 **Email:** billing.mnglobal@gmail.com  
+**File No.:** 673610200023  
 **Registered Office:** PMB 3046, 1626 London Rd, Duluth, MN 55812  
 **State of Formation:** Minnesota  
 **Date of Establishment:** 2013
@@ -39,7 +40,7 @@ To function as a self-scaling, strategically aligned institutional entity wherei
 ### 1. Single-Minded Strategic Purpose
 Every organizational action, capital allocation decision, and operational process is evaluated solely on its contribution to increasing long-term Bitcoin holdings. Activities that do not directly or indirectly support this objective are systematically eliminated or restructured.
 
-### 2. 100% Bitcoin Treasury Policy
+### 2. 100% Bitcoin Reserve Policy
 All operational cash flow, realized profits, and liquid assets are converted to Bitcoin according to predetermined acquisition protocols. The company maintains a pure Bitcoin balance sheet, with all retained earnings held exclusively in Bitcoin, ensuring complete alignment between operational success and asset accumulation objectives.
 
 ### 3. Protocol-Based Operational Framework
